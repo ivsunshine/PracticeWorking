@@ -13,7 +13,7 @@ public class BigNumber {
 	public static void main(String[] args) {
 		outPutOneToMaxNDigits(3);
 	}
-
+	
 	public static void outPutOneToMaxNDigits(int n) {
 		// 用nlist表示数n,nlist[0]表示n的最低位
 		ArrayList<Integer> nlist = new ArrayList<Integer>();
